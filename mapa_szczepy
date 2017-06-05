@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Prosenice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4847412109375,
+          49.48909243512237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "09-38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.61566162109375,
+          40.10276070642928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "WG-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45555877685547,
+          52.20055808501027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "WG-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.453670501708984,
+          52.19950596108069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "FRA45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.220123291015625,
+          43.52303690241169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "FRA44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.794145584106445,
+          43.69176996439092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ffff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Comercial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39178466796875,
+          52.00771005263849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "OBSIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6524658203125,
+          52.633062890594374
+        ]
+      }
+    }
+  ]
+}
